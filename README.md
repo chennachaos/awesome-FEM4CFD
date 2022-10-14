@@ -31,36 +31,36 @@ These libraries are not exactly like blackbox simulation software but they provi
 
 
 ## Textbooks - non maths intensive
-* **Finite Element Methods for Flow Problems** Jean Donea and Antonio Huerta, Wiley
-* **The Finite Element Method for Fluid Dynamics** O C Zienkiewicz, R L Taylor and P Nithiarasu
-* **Computational Fluid Dynamics** T J Chung, Cambridge University Press
-* **Finite Element Methods for Computational Fluid Dynamics: A Practical Guide** Dmitri Kuzmin and Jari Hämäläinen, SIAM
-* **Discontinuous Finite Elements in Fluid Dynamics and Heat Transfer**, B Q Li, Springer
-* **Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods** Rainard Lohner, Springer
-* **Finite Element Methods and Their Applications** Zhangxin Chen, Springer
-* **Incompressible Flow and the Finite Element Method, Volume 1: Advection-Diffusion and Isothermal Laminar Flow** P M Gresho and R L Sani, Wiley
-* **Incompressible Flow and the Finite Element Method, Volume 2: Isothermal Laminar Flow** P M Gresho and R L Sani, Wiley
-* **Spectral/hp Element Methods for Computational Fluid Dynamics** George EM Karniadakis and Spencer Sherwin, Oxford Science Publications
-* **The Finite Element Method in Heat Transfer and Fluid Dynamics** J N Reddy and D K Gartling, CRC Press
+* *Finite Element Methods for Flow Problems* Jean Donea and Antonio Huerta, Wiley
+* *The Finite Element Method for Fluid Dynamics* O C Zienkiewicz, R L Taylor and P Nithiarasu
+* *Computational Fluid Dynamics* T J Chung, Cambridge University Press
+* *Finite Element Methods for Computational Fluid Dynamics: A Practical Guide* Dmitri Kuzmin and Jari Hämäläinen, SIAM
+* *Discontinuous Finite Elements in Fluid Dynamics and Heat Transfer*, B Q Li, Springer
+* *Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods** Rainard Lohner, Springer
+* *Finite Element Methods and Their Applications* Zhangxin Chen, Springer
+* *Incompressible Flow and the Finite Element Method, Volume 1: Advection-Diffusion and Isothermal Laminar Flow* P M Gresho and R L Sani, Wiley
+* *Incompressible Flow and the Finite Element Method, Volume 2: Isothermal Laminar Flow* P M Gresho and R L Sani, Wiley
+* *Spectral/hp Element Methods for Computational Fluid Dynamics* George EM Karniadakis and Spencer Sherwin, Oxford Science Publications
+* *The Finite Element Method in Heat Transfer and Fluid Dynamics* J N Reddy and D K Gartling, CRC Press
 
 
 
 
 ## Textbooks - maths intensive
 Only consider these books if you want to know the rigorous mathematics behind FEM.
-* **Finite Elements and Fast Iterative Solvers** Howard Elman, David Silvester and Andy Wathen, Oxford University Press
-* **Finite Element Methods for Incompressible Flow Problems** Volker John, Springer
-* **Finite Element Methods for Navier-Stokes Equations: Theory and Algorithms** Vivette Girault and Pierre-Arnaud Raviart
-* **Finite Element Methods for Incompressible Viscous Flow** Roland Glowinski
-* **Numerical Solution of the Incompressible Navier-Stokes Equations** L. Quartapelle, Springer Basel AG
-* **Projection and Quasi-Compressibility Methods for Solving the Incompressible Navier-Stokes Equations** Andreas Prohl, Springer Fachmedien Wiesbaden GmbH
-* **Finite Element Methods in Incompressible, Adiabatic and Compressible Flows: From Fundamental Concepts to Applications** Mutsuto Kawahara, Springer
+* *Finite Elements and Fast Iterative Solvers* Howard Elman, David Silvester and Andy Wathen, Oxford University Press
+* *Finite Element Methods for Incompressible Flow Problems* Volker John, Springer
+* *Finite Element Methods for Navier-Stokes Equations: Theory and Algorithms* Vivette Girault and Pierre-Arnaud Raviart
+* *Finite Element Methods for Incompressible Viscous Flow* Roland Glowinski
+* *Numerical Solution of the Incompressible Navier-Stokes Equations* L. Quartapelle, Springer Basel AG
+* *Projection and Quasi-Compressibility Methods for Solving the Incompressible Navier-Stokes Equations* Andreas Prohl, Springer Fachmedien Wiesbaden GmbH
+* *Finite Element Methods in Incompressible, Adiabatic and Compressible Flows: From Fundamental Concepts to Applications* Mutsuto Kawahara, Springer
 
 
 
 ## Papers/Thesis/Reports - Continuous Galerkin
 
-* **Stabilized Finite Elements in FUN3D**  W. Kyle Anderson, James C. Newman, and Steve L. Karman 
+* *Stabilized Finite Elements in FUN3D*  W. Kyle Anderson, James C. Newman, and Steve L. Karman 
 [Link](https://ntrs.nasa.gov/api/citations/20170001235/downloads/20170001235.pdf)
 
 
