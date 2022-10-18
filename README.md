@@ -46,8 +46,6 @@ These libraries are not exactly like blackbox simulation software but they provi
 * [*Discontinuous Finite Elements in Fluid Dynamics and Heat Transfer*](https://link.springer.com/book/10.1007/1-84628-205-5), B Q Li, Springer
 * [*Applied Computational Fluid Dynamics Techniques: An Introduction Based on Finite Element Methods*](https://www.wiley.com/en-us/Applied+Computational+Fluid+Dynamics+Techniques%3A+An+Introduction+Based+on+Finite+Element+Methods%2C+2nd+Edition-p-9780470519073) Rainard Lohner, Springer
 * [*Finite Element Methods and Their Applications*](https://link.springer.com/book/10.1007/3-540-28078-2?gclid=CjwKCAjwkaSaBhA4EiwALBgQaAeVix769JTifRwX5UfkxyR2lzyo1AkKy9Vhy3XSPLpGP5hWQpa_vhoCgPYQAvD_BwE) Zhangxin Chen, Springer
-* [*Incompressible Flow and the Finite Element Method, Volume 1: Advection-Diffusion and Isothermal Laminar Flow*](https://www.wiley.com/en-us/Incompressible+Flow+and+the+Finite+Element+Method%2C+Volume+1%3A+Advection+Diffusion+and+Isothermal+Laminar+Flow-p-9780471492498) P M Gresho and R L Sani, Wiley
-* [*Incompressible Flow and the Finite Element Method, Volume 2: Isothermal Laminar Flow*](https://www.wiley.com/en-us/Incompressible+Flow+and+the+Finite+Element+Method%2C+Volume+2%3A+Isothermal+Laminar+Flow-p-9780471492504) P M Gresho and R L Sani, Wiley
 * [*Spectral/hp Element Methods for Computational Fluid Dynamics*](https://academic.oup.com/book/7538) George EM Karniadakis and Spencer Sherwin, Oxford Science Publications
 * [*The Finite Element Method in Heat Transfer and Fluid Dynamics*](http://ftp.demec.ufpr.br/disciplinas/TM144/Aulas-e-mat-apoio/3rd-Edition-J.N-Reddy-The%20finite%20element%20method%20in%20heat%20transfer%20and%20fluid%20dynamics.pdf) J N Reddy and D K Gartling, CRC Press
 
