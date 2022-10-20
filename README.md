@@ -8,7 +8,9 @@ The resources are categorised as follows:
 
 *If you know of any other resourses that belong in the list, then please open an issue or send a pull request*.
 
-**Note:** For software repositories, there must be some considerable amount of material/tutorials on CFD to be included in the list.
+**Note 1:** For software repositories, there must be some considerable amount of material/tutorials on CFD to be included in the list.
+
+**Note 2:** Discontinuous Galerkin (DG) method is relatively more complicated than the Continuous Galerkin (CG) method. So, if you are new to FEM, it is recommended that you learn the CG method first before learning the DG method.
 
 # Open source libraries
 
