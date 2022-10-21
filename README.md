@@ -18,6 +18,12 @@ The resources are categorised as follows:
 These can be used as blackbox simulation software. The user needs to prepare the input file (with mesh, BCs, properties etc.) and then execture the program.
 * [NEKTAR++](https://www.nektar.info/)
 
+* [Nek5000](https://github.com/Nek5000/Nek5000/)
+
+* [Neko](https://github.com/ExtremeFLOW/neko/)
+
+* [nekRS](https://github.com/Nek5000/nekRS)
+
 * [PyFR](https://www.pyfr.org/)
 
 * [SimVascular](https://simvascular.github.io/)
