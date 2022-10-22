@@ -5,7 +5,7 @@ The resources are categorised as follows:
 - [Open source libraries](#open-source-libraries)
 - [Textbooks](#textbooks)
 - [Papers/Thesis/Reports](#papersthesisreports)
-- [Lecture notes/videos](#lectures)
+- [Lecture notes/videos](#lecture-notesvideos)
 
 *If you know of any other resourses that belong in the list, then please open an issue or send a pull request*.
 
