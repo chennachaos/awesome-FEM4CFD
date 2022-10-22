@@ -101,6 +101,14 @@ Only consider these books if you want to know the rigorous mathematics behind FE
 
 * [*Discontinuous Galerkin methods: theory, computation and applications*](https://link.springer.com/book/10.1007/978-3-642-59721-3) B Cockburn, GE Karniadakis, CW Shu, Springer
 
+* [*Finite Elements I*](https://link.springer.com/book/10.1007/978-3-030-56341-7) A Ern and J Guermond, Springer
+
+* [*Finite Elements II*](https://link.springer.com/book/10.1007/978-3-030-56923-5) A Ern and J Guermond, Springer
+
+* [*Finite Elements III*](https://link.springer.com/book/10.1007/978-3-030-57348-5) A Ern and J Guermond, Springer
+
+
+
 # Papers/Thesis/Reports
 ## Continuous Galerkin
 
