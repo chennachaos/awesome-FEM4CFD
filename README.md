@@ -32,6 +32,8 @@ These can be used as blackbox simulation software. The user needs to prepare the
 
 * [HDGlab](https://git.lacan.upc.edu/hybridLab/HDGlab)     [Paper](https://arxiv.org/abs/2009.08805)
 
+* [Lethe](https://lethe-cfd.github.io/lethe/index.html)
+
 ### Opensource core FEM libraries for CFD 
 These libraries are not exactly like blackbox simulation software but they provide all the necessary ingredients for the FEM so that the users can develop their own solvers for solving Physics. Consider these libraries only if you know the basics (formulations) of FEM and have done some implementation of your own at least for 2D problems.
 * [deal.ii](https://www.dealii.org/)
