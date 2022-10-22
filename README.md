@@ -5,6 +5,7 @@ The resources are categorised as follows:
 - [Open source libraries](#open-source-libraries)
 - [Textbooks](#textbooks)
 - [Papers/Thesis/Reports](#papersthesisreports)
+- [Lecture notes/videos](#lectures)
 
 *If you know of any other resourses that belong in the list, then please open an issue or send a pull request*.
 
@@ -157,3 +158,8 @@ Only consider these books if you want to know the rigorous mathematics behind FE
 
 
 * [*To CG or to HDG: A Comparative Study*](https://link.springer.com/article/10.1007/s10915-011-9501-7) R M Kirby, S J Sherwin and B Cockburn 
+
+
+# Lecture notes/videos
+
+* [Finite Element Methods for Fluid Dynamics](http://home.iitk.ac.in/~smittal/html_files/smittal_eso204A.html#ae618) by Sanjay Mittal, IIT Kanpur
