@@ -164,4 +164,8 @@ Only consider these books if you want to know the rigorous mathematics behind FE
 
 # Lecture notes/videos
 
-* [Finite Element Methods for Fluid Dynamics](http://home.iitk.ac.in/~smittal/html_files/smittal_eso204A.html#ae618) by Sanjay Mittal, IIT Kanpur
+* [Finite Element Methods for Fluid Dynamics](http://home.iitk.ac.in/~smittal/html_files/smittal_eso204A.html#ae618) by Sanjay Mittal, IIT Kanpur.
+
+* [CFD course](https://www.youtube.com/playlist?list=PLZsgQL03AlrcmFMnkFOWDpMsiK4mmDli2) by Dr Bartosz Górecki, QuickerSim.
+
+* [Stabilized finite element methods](https://www.youtube.com/playlist?list=PLMHTjE57oyvpkTPG8ON1w6BChBoapsZTA) by Dr Stein Stoter.
