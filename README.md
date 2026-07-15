@@ -61,6 +61,7 @@ These libraries are not exactly like blackbox simulation software but they provi
 
 * [Firedrake](https://www.firedrakeproject.org/)
 
+* [Vanadis](https://github.com/marek-ac/vanadis_solver-directional_residual)
 # Textbooks
 ## Textbooks - non maths intensive
 * [*Finite Element Methods for Flow Problems*](https://onlinelibrary.wiley.com/doi/book/10.1002/0470013826) Jean Donea and Antonio Huerta, Wiley
